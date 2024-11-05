@@ -1,5 +1,5 @@
 const config = {
-  name: "Lucas Lopez-Dovina",
+  name: "Lucas Lopez Dovina",
   description: {
     FR: {
       short: `Lucas Lopez Dovina est un chercheur en sciences politiques et réalise, depuis octobre 2014, une thèse au sein du <a
