@@ -2,8 +2,8 @@ const config = {
   name: "Lucas Lopez Dovina",
   description: {
     FR: {
-      short: `Lucas Lopez Dovina est un chercheur en sciences politiques et réalise, depuis octobre 2014, une thèse au sein du <a
-          href="https://umr-lisis.fr/" target="_blank">Laboratoire Interdisciplinaire Sciences Innovations Sociétes (LISIS)</a>. Il travaille sur les organisations finançant des initiatives de restauration écologique / renaturation dans l’action publique territoriale, sous la direction de Gabrielle Bouleau (INRAE/LISIS). La thèse est financée par un contrat doctoral de l’Université Gustave Eiffel..`,
+      short: `Lucas Lopez Dovina est un chercheur en sciences politiques et réalise, depuis octobre 2024, une thèse au sein du <a
+          href="https://umr-lisis.fr/" target="_blank">Laboratoire Interdisciplinaire Sciences Innovations Sociétes (LISIS)</a>. Il travaille sur les organisations finançant des initiatives de restauration écologique / renaturation dans l’action publique territoriale, sous la direction de Gabrielle Bouleau (INRAE/LISIS). La thèse est financée par un contrat doctoral de l’Université Gustave Eiffel.`,
       long: "",
     },
   },
