@@ -1,52 +1,18 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Lucas Lopez Dovina",
   description: {
-    EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
-      long: "",
-    },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
-            target="_blank">Laboratoire Interdisciplinaire
-          Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+      short: `Lucas Lopez Dovina est un chercheur en sciences politiques et réalise, depuis octobre 2014, une thèse au sein du <a
+          href="https://umr-lisis.fr/" target="_blank">Laboratoire Interdisciplinaire Sciences Innovations Sociétes (LISIS)</a>. Il travaille sur les organisations finançant des initiatives de restauration écologique / renaturation dans l’action publique territoriale, sous la direction de Gabrielle Bouleau (INRAE/LISIS). La thèse est financée par un contrat doctoral de l’Université Gustave Eiffel..`,
       long: "",
     },
   },
   links: [
     {
-      label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
-    },
-    {
-      label: "google scholar",
-      value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
-    },
-    {
-      label: "pubpeer",
-      value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
-    },
-    {
-      label: "linked in",
-      value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      label: "LinkedIn",
+      value: "Profil",
+      url: "https://www.linkedin.com/in/lucas-lopez-dovina-b52b45228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: { name: "lucas.lopez-dovina", domain: "univ-eiffel.fr" },
 };
